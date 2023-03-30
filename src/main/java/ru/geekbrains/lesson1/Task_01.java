@@ -14,7 +14,6 @@ public class Task_01 {
         int result = 0;
         for (int i = 1; i <= N; i++) {
             result = result + i;
-         ;
         }
         return result;
     }
